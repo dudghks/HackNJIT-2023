@@ -1,0 +1,8 @@
+<iframe
+      style="border: none;"
+      height="600px"
+      width="400px"
+      src="https://widget.kommunicate.io/chat?appId=17c8d7bb7bfda7bac83cd50e6e7750866"
+      allow="microphone; geolocation;"
+>
+</iframe>
